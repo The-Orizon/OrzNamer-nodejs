@@ -1,0 +1,22 @@
+{
+  "name": "namer-dept",
+  "_": {
+    "name": "Project OrzServiceHub-NamerDept-nodejs"
+  },
+  "version": "0.0.3",
+  "description": "",
+  "main": "app.js",
+  "author": {
+    "name": "wfjsw"
+  },
+  "dependencies": {
+    "deltae": "github:wfjsw/deltae",
+    "depd": "^1.1.0",
+    "minimist": "^1.2.0",
+    "node-telegram-bot-api": "git+https://gitlab.com/wfjsw/libtelegrambot.git",
+    "prompt": "^1.0.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "svg2png": "^4.1.1"
+  }
+}
